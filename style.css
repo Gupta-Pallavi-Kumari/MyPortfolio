@@ -31,7 +31,7 @@ body {
   border-radius: 50%;
   object-fit: cover;
   border: 5px solid white;
-  box-shadow: 0 0 20px,#ff62ab;
+  box-shadow: 0 0 25px,#ff62ab;
 }
 
 .about-text {
